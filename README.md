@@ -4,8 +4,8 @@
 
 1. Linux
 
-- Command: ```bash awk '' ``` - [Youtube](https://www.youtube.com/watch?v=9YOZmI-zWok&ab_channel=DistroTube)
-- Command: ```bash sed ``` - [Youtube](https://www.youtube.com/watch?v=EACe7aiGczw&ab_channel=DistroTube)
+- Command: ```awk '' ``` - [Youtube](https://www.youtube.com/watch?v=9YOZmI-zWok&ab_channel=DistroTube)
+- Command: ```sed ``` - [Youtube](https://www.youtube.com/watch?v=EACe7aiGczw&ab_channel=DistroTube)
 - TODO
 2. Network
 
