@@ -1,10 +1,11 @@
-# HOW TO BECOME AUTO OPS / WE'RE DON'T OPS ANYMORE
+# WE DON'T OPS ANYMORE
 
 ## ZERO
 
 1. Linux
 
 - Command: ```bash awk '' ``` - [Youtube](https://www.youtube.com/watch?v=9YOZmI-zWok&ab_channel=DistroTube)
+- Command: ```bash sed ``` - [Youtube](https://www.youtube.com/watch?v=EACe7aiGczw&ab_channel=DistroTube)
 - TODO
 2. Network
 
