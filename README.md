@@ -5,6 +5,7 @@
 1. Linux
 
 - Command: ```awk '' ``` - [Youtube](https://www.youtube.com/watch?v=9YOZmI-zWok&ab_channel=DistroTube)
+- Command: ```xargs ``` - [Youtube](https://www.youtube.com/watch?v=rp7jLi_kgPg&ab_channel=DistroTube)
 - Command: ```sed ``` - [Youtube](https://www.youtube.com/watch?v=EACe7aiGczw&ab_channel=DistroTube)
 - TODO
 2. Network
